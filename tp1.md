@@ -24,3 +24,4 @@ diferencias y realizar un commit.
 
 *Nota*: La documentación quedará evidenciada mediante un repositorio y capturas en el informe a
 presentar.
+Punto 3 Grupo 2.
